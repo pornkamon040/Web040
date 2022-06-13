@@ -16,9 +16,11 @@ aside{
     background: plum;
     width: 30%;
     height: 200px;
+    float: left;
 }
 article{
     background: rgb(131, 131, 241);
     width: 30%;
     height: 100px;
+    float: right;
 }
